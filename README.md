@@ -88,13 +88,13 @@ Food-Trends-Customer-Preference-Analysis/
 
 ## 📊 Power BI Dashboard
 Due to file size limitations, the full Power BI file is available here:  
-👉 https://your-drive-link-here  
+👉 [https://your-drive-link-here](https://drive.google.com/drive/folders/1WtOmVMYMWjD9WHfNsHrgrJSy-KxfKrNT?usp=sharing)  
 
 ---
 
 ## 📂 Full Dataset
 Due to GitHub size limitations, the complete dataset is available here:  
-👉 https://your-dataset-link-here  
+👉 [https://your-dataset-link-here](https://drive.google.com/drive/folders/13SmeN0C5SBHP_ln10ZXgNIf0vyLgRVAY?usp=sharing)  
 
 ---
 
@@ -130,4 +130,4 @@ This project demonstrates how raw data can be transformed into actionable insigh
 
 ## 👤 Author
 Ramesh  
-BTech Final Year | Data Analytics Enthusiast  
+Data Analytics Enthusiast  
