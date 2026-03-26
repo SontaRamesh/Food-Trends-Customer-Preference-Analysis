@@ -29,8 +29,11 @@ To analyze customer behavior and food trends in order to:
 Food-Trends-Customer-Preference-Analysis/
 │
 ├── data/              # Full dataset  (link provided below)
+
 ├── dashboards/        # Power BI file (link provided below)  
+
 ├── report/            # Project report (WORD)  
+
 ├── presentation/      # PPT presentation  
 
 ---
