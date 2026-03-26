@@ -27,8 +27,7 @@ To analyze customer behavior and food trends in order to:
 ## 📂 Project Structure
 
 Food-Trends-Customer-Preference-Analysis/
-
-
+|
 ├── data/              # Full dataset  (link provided below)
 
 ├── dashboards/        # Power BI file (link provided below)  
